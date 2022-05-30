@@ -1,2 +1,2 @@
-# Train-Ticket-Booking-using-HTML-CSS-and-PHPMySQL
+# Train-Ticket-Booking-System
 A train ticket booking system made using HTML, CSS,JS and PHPMySQL 
